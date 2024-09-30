@@ -3,7 +3,7 @@ import string
 from itertools import product
 
 # Given ciphertext (up to 50 characters)
-ciphertext = "yhwdpkpduupdzaxudabvirfkmbfkmrzwcksueinuqdgcyalicc"  # Example ciphertext, replace with your 50-character input
+ciphertext = "abcdefghijklmnopqrstuvwxyz"  # Example ciphertext, replace with your 50-character input
 
 # Ensure the ciphertext is no longer than 50 characters
 ciphertext = ciphertext[:50]
